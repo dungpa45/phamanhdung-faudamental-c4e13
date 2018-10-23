@@ -1,0 +1,6 @@
+print("What is Boolean? Write down 3 different expression that results a Boolean type(vd 5 == 6)")
+print("a: boolean chỉ trả về giá trị đúng hoặc sai ")
+print("3 vd :")
+print("6==9  -> false")
+print("6+9==9+6  -> true")
+print("69!=69  -> false")
