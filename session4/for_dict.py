@@ -12,11 +12,11 @@ p_list=[
     }
 ]
 
-
-# print(p_list)
 for p in p_list:
+    
     print(p['age'])
     print("==========")
+
 # for k in person.keys(): #tuple ~list
 #     print(k, person[k])
 
